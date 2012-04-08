@@ -1,0 +1,37 @@
+---
+layout: default
+title: MacRuby
+subtitle: Ruby for the Objective-C Runtime
+---
+
+h2(grid_8 prefix_2 suffix_2). What Is MacRuby?
+
+p(grid_8 prefix_2 suffix_2). MacRuby is an implementation of Ruby 1.9 directly on top of Mac OS X core technologies such as the Objective-C runtime and garbage collector, the LLVM compiler infrastructure and the Foundation and ICU frameworks. It is the goal of MacRuby to enable the creation of full-fledged Mac OS X applications which do not sacrifice performance in order to enjoy the benefits of using Ruby.
+
+<hr class="grid_12">
+
+h2(grid_4 alpha). How Can I Get It?
+
+h2(grid_4). How Can I Build It?
+
+h2(grid_4 omega). How Can I Use It?
+
+p(grid_4 alpha). The easiest way to install MacRuby is to download the latest stable release. If you are feeling adventuresome, you can also install one of the "nightly builds":https://github.com/downloads/MacRuby/MacRuby/MacRuby%200.11.zip.
+
+<div class="grid_4">
+p. Building is as easy as:
+
+# Clone the MacRuby repo from Github
+# Install LLVM (see the README for instructions)
+# Run: @rake; sudo rake install@
+</div>
+
+p(grid_4 omega). MacRuby comes with project templates for use with Xcode. It also comes with all of the command-line tools you've come to expect from Ruby: @macruby@, @macirb@, @macrake@, and @macgem@. Additionally, you can compile MacRuby source directly to an executable using @macrubyc@. Be sure to visit the "wiki":https://github.com/MacRuby/MacRuby/wiki to learn more!
+
+h2(grid_8 alpha). Getting Involved
+
+h2(grid_4 omega). Getting In Touch
+
+p(grid_8 alpha). ...stuff about bug tracker/bug fixing here...
+
+p(grid_4 omega). If you have questions, be sure to join the "mailing list":http://lists.macosforge.org/mailman/listinfo.cgi/macruby-devel or chat with us in the #macruby IRC channel on Freenode. You can also follow us on twitter "@macruby":https://twitter.com/#!/macruby for all the latest news from the MacRuby community.
