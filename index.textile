@@ -18,20 +18,15 @@ h2(grid_4 omega). How Can I Use It?
 
 p(grid_4 alpha). The easiest way to install MacRuby is to download the latest stable release. If you are feeling adventuresome, you can also install one of the "nightly builds":https://github.com/downloads/MacRuby/MacRuby/MacRuby%200.11.zip.
 
-<div class="grid_4">
-p. Building is as easy as:
-
-# Clone the MacRuby repo from Github
-# Install LLVM (see the README for instructions)
-# Run: @rake; sudo rake install@
-</div>
+p(grid_4). If you'd rather build your own MacRuby, simply clone the MacRuby repository from Github and follow the instructions from the "README":https://github.com/MacRuby/MacRuby/blob/master/README.rdoc.
 
 p(grid_4 omega). MacRuby comes with project templates for use with Xcode. It also comes with all of the command-line tools you've come to expect from Ruby: @macruby@, @macirb@, @macrake@, and @macgem@. Additionally, you can compile MacRuby source directly to an executable using @macrubyc@. Be sure to visit the "wiki":https://github.com/MacRuby/MacRuby/wiki to learn more!
+
 
 h2(grid_8 alpha). Getting Involved
 
 h2(grid_4 omega). Getting In Touch
 
-p(grid_8 alpha). ...stuff about bug tracker/bug fixing here...
+p(grid_8 alpha). The best way to contribute to MacRuby is by using it to build great things! If you happen to stumble across a bug along the way, be sure to file a "bug report":https://github.com/jballanc/MacRuby/issues. We also welcome any contributions to the MacRuby project itself. Check out the "wiki":https://github.com/MacRuby/MacRuby/wiki/Contributing-to-MacRuby for more information an ways you can contribute.
 
 p(grid_4 omega). If you have questions, be sure to join the "mailing list":http://lists.macosforge.org/mailman/listinfo.cgi/macruby-devel or chat with us in the #macruby IRC channel on Freenode. You can also follow us on twitter "@macruby":https://twitter.com/#!/macruby for all the latest news from the MacRuby community.
