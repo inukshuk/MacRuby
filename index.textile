@@ -10,11 +10,11 @@ p(grid_8 prefix_2 suffix_2). MacRuby is an implementation of Ruby 1.9 directly o
 
 <hr class="grid_12">
 
-h2(grid_4 alpha). How Can I Get It?
+h2(grid_4 alpha). Get It
 
-h2(grid_4). How Can I Build It?
+h2(grid_4). Build It
 
-h2(grid_4 omega). How Can I Use It?
+h2(grid_4 omega). Use It
 
 p(grid_4 alpha). The easiest way to install MacRuby is to download the latest stable release. If you are feeling adventuresome, you can also install one of the "nightly builds":https://github.com/downloads/MacRuby/MacRuby/MacRuby%200.11.zip.
 
