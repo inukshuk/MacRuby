@@ -16,11 +16,11 @@ h2(grid_4). Build It
 
 h2(grid_4 omega). Use It
 
-p(grid_4 alpha). The easiest way to install MacRuby is to download the latest stable release. If you are feeling adventuresome, you can also install one of the "nightly builds":https://github.com/downloads/MacRuby/MacRuby/MacRuby%200.11.zip.
+p(grid_4 alpha). You can install the "latest stable release":https://github.com/downloads/MacRuby/MacRuby/MacRuby%200.11.zip or, if you are feeling adventurous, you can install one of the "nightly builds":https://www.macruby.org/files/nightlies. See the wiki for "more detailed instructions":https://github.com/MacRuby/MacRuby/wiki/Setting-up-MacRuby.
 
 p(grid_4). If you'd rather build your own MacRuby, simply clone the MacRuby repository from Github and follow the instructions from the "README":https://github.com/MacRuby/MacRuby/blob/master/README.rdoc.
 
-p(grid_4 omega). MacRuby comes with project templates for use with Xcode. It also comes with all of the command-line tools you've come to expect from Ruby: @macruby@, @macirb@, @macrake@, and @macgem@. Additionally, you can compile MacRuby source directly to an executable using @macrubyc@. Be sure to visit the "wiki":https://github.com/MacRuby/MacRuby/wiki to learn more!
+p(grid_4 omega). After installing, MacRuby is available from the command-line as @macruby@. It also comes with project templates for use with Xcode. "Create your first application today!":https://github.com/MacRuby/MacRuby/wiki/Creating-a-simple-application.
 
 
 h2(grid_8 alpha). Getting Involved
