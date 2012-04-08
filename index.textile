@@ -23,9 +23,9 @@ p(grid_4). If you'd rather build your own MacRuby, simply clone the MacRuby repo
 p(grid_4 omega). After installing, MacRuby is available from the command-line as @macruby@. It also comes with project templates for use with Xcode. "Create your first application today!":https://github.com/MacRuby/MacRuby/wiki/Creating-a-simple-application.
 
 
-h2(grid_8 alpha). Getting Involved
+h2(grid_8 alpha). Get Involved
 
-h2(grid_4 omega). Getting In Touch
+h2(grid_4 omega). Get In Touch
 
 p(grid_8 alpha). The best way to contribute to MacRuby is by using it to build great things! If you happen to stumble across a bug along the way, be sure to file a "bug report":https://github.com/MacRuby/MacRuby/issues. We also welcome any contributions to the MacRuby project itself. Check out the "wiki":https://github.com/MacRuby/MacRuby/wiki/Contributing-to-MacRuby for more information an ways you can contribute.
 
