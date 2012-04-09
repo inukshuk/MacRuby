@@ -20,7 +20,7 @@ p(grid_4 alpha). You can install the "latest stable release":https://github.com/
 
 p(grid_4). If you'd rather build your own MacRuby, simply clone the MacRuby repository from Github and follow the instructions from the "README":https://github.com/MacRuby/MacRuby/blob/master/README.rdoc.
 
-p(grid_4 omega). After installing, MacRuby is available from the command-line as @macruby@. It also comes with project templates for use with Xcode. "Create your first application today!":https://github.com/MacRuby/MacRuby/wiki/Creating-a-simple-application.
+p(grid_4 omega). After installing, MacRuby is available from the command-line as @macruby@. It also comes with project templates for use with Xcode. "Create your first application today!":https://github.com/MacRuby/MacRuby/wiki/Creating-a-simple-application
 
 
 h2(grid_8 alpha). Get Involved
