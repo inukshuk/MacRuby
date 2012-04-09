@@ -32,5 +32,5 @@ p(grid_8 alpha). The best way to contribute to MacRuby is by using it to build g
 <div class="grid_4 omega">
 * Mailing List: "macruby-devel":http://lists.macosforge.org/mailman/listinfo.cgi/macruby-devel
 * Twitter: "@macruby":https://twitter.com/#!/macruby
-* Freenode IRC: #macruby
+* Freenode IRC: "#macruby":http://webchat.freenode.net?channels=macruby
 </div>
